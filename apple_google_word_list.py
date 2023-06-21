@@ -26,14 +26,14 @@ def get_google_terms(url):
     return terms
 
 def sort_terms(terms):
-    return sorted(terms, key=lambda x: x['term'])
+    return sorted(terms, key=lambda x: x['term'].lower())
 
 def generate_markdown(terms):
     markdown = "# Word List\n\n"
     toc = "## Table of Contents\n\n"
     current_heading = None
     for term in terms:
-        heading = term['term'][0] if term['term'][0].isalpha() else 'Numbers and Symbols'
+        heading = term['term'][0].lower() if term['term'][0].isalpha() else 'Numbers and Symbols'
         if heading != current_heading:
             markdown += f"## {heading}\n\n"
             toc += f"- [{heading}](#{heading.lower()})\n"

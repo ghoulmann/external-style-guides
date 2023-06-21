@@ -1,61 +1,33 @@
+# Word List
 
-# Word List <!-- omit in toc -->
+## Table of Contents
 
-Lower case is separate from upper in section divisions. Sorry.
-
-## Contents <!-- omit in toc -->
-
-
-- [Numbers and Symbols](#numbers-and-symbols)
-- [A](#a)
-- [B](#b)
-- [C](#c)
-- [D](#d)
-- [E](#e)
-- [F](#f)
-- [G](#g)
-- [H](#h)
-- [I](#i)
-- [J](#j)
-- [K](#k)
-- [L](#l)
-- [M](#m)
-- [N](#n)
-- [O](#o)
-- [P](#p)
-- [Q](#q)
-- [R](#r)
-- [S](#s)
-- [T](#t)
-- [U](#u)
-- [V](#v)
-- [W](#w)
-- [Y](#y)
-- [a](#a-1)
-- [b](#b-1)
-- [c](#c-1)
-- [d](#d-1)
-- [e](#e-1)
-- [f](#f-1)
-- [g](#g-1)
-- [h](#h-1)
-- [i](#i-1)
-- [j](#j-1)
-- [k](#k-1)
-- [l](#l-1)
-- [m](#m-1)
-- [n](#n-1)
-- [o](#o-1)
-- [p](#p-1)
-- [q](#q-1)
-- [r](#r-1)
-- [s](#s-1)
-- [t](#t-1)
-- [u](#u-1)
-- [v](#v-1)
-- [w](#w-1)
+- [Numbers and Symbols](#numbers and symbols)
+- [a](#a)
+- [b](#b)
+- [c](#c)
+- [d](#d)
+- [e](#e)
+- [f](#f)
+- [g](#g)
+- [h](#h)
+- [i](#i)
+- [j](#j)
+- [k](#k)
+- [l](#l)
+- [m](#m)
+- [n](#n)
+- [o](#o)
+- [p](#p)
+- [q](#q)
+- [r](#r)
+- [s](#s)
+- [t](#t)
+- [u](#u)
+- [v](#v)
+- [w](#w)
 - [x](#x)
-- [y](#y-1)
+- [y](#y)
 - [z](#z)
 
 
@@ -73,9 +45,9 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[10Base-T, 100Base-T, 1000Base-T](https://support.apple.com/guide/applestyleguide/numbers-apsgf82c6083/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
-**[2-Step Verification](https://developers.google.com/style/word-list#2-step-verification)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
 **[2-byte character](https://support.apple.com/guide/applestyleguide/numbers-apsgf82c6083/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[2-Step Verification](https://developers.google.com/style/word-list#2-step-verification)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[24/7](https://support.apple.com/guide/applestyleguide/numbers-apsgf82c6083/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -89,1185 +61,15 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[3D Touch](https://support.apple.com/guide/applestyleguide/numbers-apsgf82c6083/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
-## A
-
-**[A/B testing](https://developers.google.com/style/word-list#ab)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[AAC](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[AC](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[AC adapter](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[AFP](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[AM, PM](https://developers.google.com/style/word-list#am-pm)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[ANSI](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[APFS](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[API](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[API](https://developers.google.com/style/word-list#api)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[API Console key](https://developers.google.com/style/word-list#api-console-key)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[API Console, APIs console,
-    developer console, dev console, or Google API Console](https://developers.google.com/style/word-list#api-console)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[API key](https://developers.google.com/style/word-list#api-key)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[APIs](https://developers.google.com/style/word-list#apis)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[APIs Explorer](https://developers.google.com/style/word-list#apis-explorer)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[APK](https://developers.google.com/style/word-list#apk)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[APN](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[ASCII](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[ASIC](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[AVCHD](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Access Point Name](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Action pop-up menu](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Activity rings](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Advanced Video Coding High Definition](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[AirDrop](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[AirMac](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[AirPlay](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[AirPods](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[AirPort](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Alt key](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[America, American](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[America, American](https://developers.google.com/style/word-list#america)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[American National Standards Institute](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Android](https://developers.google.com/style/word-list#android)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Android-powered device](https://developers.google.com/style/word-list#android-powered)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Animoji](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[App Library](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[App Store](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Authorized Reseller](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Authorized Service Provider](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Books](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Card](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Card Family](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Cash](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Cash Family](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Diagnostics](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple File System](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Filing Protocol](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Fitness+](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Gift Card](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple ID](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Inc.](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Loops](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Loops Utility](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Lossless](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple M1 chip](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Music](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple News](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple News+](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Online Store](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Original](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Pay](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Pencil](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Remote](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Retail Store](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Store](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Store app](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Support](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple T2 Security Chip](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Watch](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple Watch app](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple computer](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple event](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple logo](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple menu](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple services](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple silicon](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple website](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple-authorized (adj.), Apple authorized (pred. adj.)](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[AppleScript](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple TV](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple TV Remote](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Apple TV+](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Application Chooser menu](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Applications folder](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Asia Pacific (n., adj.)](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Ask to Buy](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Assistant](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[AssistiveTouch](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Audio Units](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Auto Exposure](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Auto Focus](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Auto Unlock](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[AutoFill](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-## B
-
-**[BGP](https://developers.google.com/style/word-list#bgp)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[BMaaS](https://developers.google.com/style/word-list#bmaas)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Back button](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Backspace key](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Black (adj.)](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Black Friday](https://developers.google.com/style/word-list#black-friday)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Blu-ray](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Blue appearance](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Bluetooth](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Book Store](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Books](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Boolean (adj.)](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-## C
-
-**[CD](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[CLI](https://developers.google.com/style/word-list#cli)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[CLUT](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[CPU](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[CPU](https://developers.google.com/style/word-list#cpu)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[CR](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[CSV](https://developers.google.com/style/word-list#csv)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Calendar](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Camera Roll](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Caps Lock key](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[CarPlay](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Catalyst](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Character Viewer](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Clipboard](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Cloud](https://developers.google.com/style/word-list#cloud)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Cloud
-    console](https://developers.google.com/style/word-list#gcp-console)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Cloud SDK](https://developers.google.com/style/word-list#cloud-sdk)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Colors window](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Column View button](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Command key](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Command-click (v.)](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Command-drag (v.)](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Command-key equivalent](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Company, Co.](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Container Engine](https://developers.google.com/style/word-list#container-engine)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Control Center](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Control Strip](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Control key](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Control+S, Command+S, and other keyboard commands](https://developers.google.com/style/word-list#control-keys)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Control-click (v.)](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Copy and paste](https://developers.google.com/style/word-list#copy-paste)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Corporation, Corp.](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Create a new ...](https://developers.google.com/style/word-list#create-new)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Ctrl](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Cyber Monday](https://developers.google.com/style/word-list#cyber-monday)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-## D
-
-**[DAC](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[DEL character](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[DIMM](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[DJ](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[DNS server policy](https://developers.google.com/style/word-list#dns-server-policy)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[DNSKEY](https://developers.google.com/style/word-list#dnskey)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[DRAM](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[DRM](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[DRM-free (adj.)](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[DV](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[DVD](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[DVD drive](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[DVI](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[DVR](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Daily Cash](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Dark Mode](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Dashboard](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Delete key](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[DevOps](https://developers.google.com/style/word-list#devops)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Developer's Guide](https://developers.google.com/style/word-list#developers-guide)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Developers Console](https://developers.google.com/style/word-list#developers-console)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Digital Crown](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Digital Touch](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Digital Visual Interface](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Do Not Disturb](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Dock](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Dolby formats](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Domain Name System Security Extensions (DNSSEC)](https://developers.google.com/style/word-list#dnssec)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Down Arrow key](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Downtime](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Dynamic Island](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-## E
-
-**[ECMP](https://developers.google.com/style/word-list#ecmp)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[EMI](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[ENERGY STAR](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[EPUB (adj.)](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[ETL](https://developers.google.com/style/word-list#etl)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[EU](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Eject button](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Emergency SOS](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Enter key](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Esc key](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Escape key](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Ethernet](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[ExpressCard](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-## F
-
-**[F1, F2, F3…](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[FAQ](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[FB-DIMM](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[FTP](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Face ID](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[FaceTime](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Family Sharing](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Fast Ethernet (100Base-T)](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Favorites](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Fiber Gigabit Ethernet](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Fibre Channel](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[File Transfer Protocol](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[FileMaker](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Files app](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Finder](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[FireWire](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Fn key](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Focus](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Focus filters](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Fonts window](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Force Touch](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Forward Delete key](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Forward button](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[FreeBSD](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Function key](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Fusion Drive](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Fwd Del key](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-## G
-
-**[GB (n., adj.)](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[GB/s](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[GBps](https://developers.google.com/style/word-list#gigabytes-per-second)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[GFE](https://developers.google.com/style/word-list#gfe)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[GHz (n., adj.)](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[GIF](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[GIF](https://developers.google.com/style/word-list#gif)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[GKE](https://developers.google.com/style/word-list#gke)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[GKE node](https://developers.google.com/style/word-list#gke-node)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[GPU](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[GUI](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Gallery View button](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Gbit (n., adj.)](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Gbit/s](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Gbps](https://developers.google.com/style/word-list#gbps)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Genius](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Gigabit Ethernet (1000Base-T)](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Google API Client Library for LANGUAGE (Java, .NET, etc.)](https://developers.google.com/style/word-list#google-api-client-library)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Google API Console, Google APIs Console](https://developers.google.com/style/word-list#google-api-console)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Google Account, Google Accounts](https://developers.google.com/style/word-list#google-account)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Google Cloud](https://developers.google.com/style/word-list#gcp)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Google Cloud console](https://developers.google.com/style/word-list#google-cloud-platform-console)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Google Cloud project ID](https://developers.google.com/style/word-list#gcp-project-id)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Google Developers Console](https://developers.google.com/style/word-list#google-developers-console)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Google I/O](https://developers.google.com/style/word-list#google-io)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Google Play services](https://developers.google.com/style/word-list#google-play-services)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Google Play services SDK](https://developers.google.com/style/word-list#google-play-services-SDK)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Google, Googling](https://developers.google.com/style/word-list#google)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Grab](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Graphics Interchange Format](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Guides](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-## H
-
-**[H.264](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[HD (n., adj.)](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[HDMI](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[HDR (n., adj.)](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[HDV](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[HFS Plus](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[HFS Plus (Journaled)](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[HTML](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[HTTP](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[HTTPS](https://developers.google.com/style/word-list#https)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[HUD](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Haptic Touch](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Help button](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Hindi](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Home Screen](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Home button](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[HomePod](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Hover Text](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Hypertext Markup Language](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Hypertext Transfer Protocol](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-## I
-
-**[I-beam](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[I/O](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[I/O (see also Google I/O)](https://developers.google.com/style/word-list#io)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[IAM](https://developers.google.com/style/word-list#iam)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[ID](https://developers.google.com/style/word-list#id)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[IEEE](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[IM](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[IMAP](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[IP](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[IP](https://developers.google.com/style/word-list#ip)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[IPsec](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[IPsec](https://developers.google.com/style/word-list#ipsec)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[ISDN](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[ISP](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[IaaS](https://developers.google.com/style/word-list#iaas)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Icon View button](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[If](https://developers.google.com/style/word-list#if)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Important](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Incorporated, Inc.](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Info window](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Input menu](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Instant Hotspot](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Institute of Electrical and Electronics Engineers](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Integrated Services Digital Network](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Intel](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Intel Core](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Intel Xeon](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Interconnect connection](https://developers.google.com/style/word-list#interconnect-connection)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Interconnect connection location](https://developers.google.com/style/word-list#interconnect-connection-location)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Internationalized Domain Name (IDN)](https://developers.google.com/style/word-list#idn)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Internet Key Exchange (IKE)](https://developers.google.com/style/word-list#ike)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Internet Message Access Protocol](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Internet Protocol](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[IoT](https://developers.google.com/style/word-list#iot)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[IrDA](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-## J
-
-**[JPEG](https://support.apple.com/guide/applestyleguide/j-apsgf88bd162/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[JPEG](https://developers.google.com/style/word-list#jpeg)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[JavaScript](https://support.apple.com/guide/applestyleguide/j-apsgf88bd162/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Joint Photographic Experts Group](https://support.apple.com/guide/applestyleguide/j-apsgf88bd162/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-## K
-
-**[K](https://support.apple.com/guide/applestyleguide/k-apsgf9067ae8/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[KB (n., adj.)](https://support.apple.com/guide/applestyleguide/k-apsgf9067ae8/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[KB/s](https://support.apple.com/guide/applestyleguide/k-apsgf9067ae8/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[KBps](https://developers.google.com/style/word-list#kilobytes-per-second)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Kbps](https://developers.google.com/style/word-list#kbps)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Kbyte](https://support.apple.com/guide/applestyleguide/k-apsgf9067ae8/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Kerberos](https://support.apple.com/guide/applestyleguide/k-apsgf9067ae8/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Korea](https://support.apple.com/guide/applestyleguide/k-apsgf9067ae8/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[K–12](https://support.apple.com/guide/applestyleguide/k-apsgf9067ae8/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-## L
-
-**[L2 cache, L3 cache](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[LAN](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[LCD](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[LCI](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[LED](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Launchpad](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Layer](https://developers.google.com/style/word-list#layer)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Left Arrow key](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Letter of Authorization and Connecting Facility Assignment (LOA-CFA)](https://developers.google.com/style/word-list#loa-cfa)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[LiDAR](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[List View button](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Live Photos](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Live Text](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Location Services](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Lock Screen](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Login Items](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Look Around](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Low Power Mode](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-## M
-
-**[M-JPEG](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[M1 chip](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[MB (n., adj.)](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[MB/s](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[MBps](https://developers.google.com/style/word-list#megabytes-per-second)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[MHz (n., adj.)](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[MIDI](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[MIME](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[MIME type](https://developers.google.com/style/word-list#mime-type)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[MIPS](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[ML](https://developers.google.com/style/word-list#ml)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[MP3](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[MPEG](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[MPEG Audio Layer 3](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[MTU](https://developers.google.com/style/word-list#mtu)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Mac](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Mac App Store](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Mac Catalyst](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Mac Pro](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Mac mini](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Mac operating systems](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[MacBook](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Macao](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Macintosh](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Mac OS](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Mac OS Extended (Journaled) format](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Mac OS Extended format](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Mac OS X](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Mac OS X Server](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Mail](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Managed Apple ID](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Markdown](https://developers.google.com/style/word-list#markdown)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Material Design](https://developers.google.com/style/word-list#material-design)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Mbit (n., adj.)](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Mbit/s](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Mbps](https://developers.google.com/style/word-list#mbps)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Media Eject key](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Medical ID](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Memoji](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Memories](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Menu button](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Microsoft Windows](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[MiniDV](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[More button](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Mouse Keys](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Multi-Touch](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Multipurpose Internet Mail Extension](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Music](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Musical Instrument Digital Interface](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Mute key](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[My Photo Stream](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-## N
-
-**[N/A](https://developers.google.com/style/word-list#na)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[NLU](https://developers.google.com/style/word-list#NLU)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[NVIDIA](https://support.apple.com/guide/applestyleguide/n-apsgb2f4a0d6/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[News](https://support.apple.com/guide/applestyleguide/n-apsgb2f4a0d6/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[NoOps](https://developers.google.com/style/word-list#noops)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[NoSQL](https://developers.google.com/style/word-list#nosql)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Note](https://support.apple.com/guide/applestyleguide/n-apsgb2f4a0d6/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Notification Center](https://support.apple.com/guide/applestyleguide/n-apsgb2f4a0d6/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-## O
-
-**[OAuth 2.0](https://developers.google.com/style/word-list#oauth-20)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[OK](https://support.apple.com/guide/applestyleguide/o-apsg9a401e4f/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[OK or okay](https://developers.google.com/style/word-list#ok)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[OS](https://developers.google.com/style/word-list#os)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[OS X](https://support.apple.com/guide/applestyleguide/o-apsg9a401e4f/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[OS X Server](https://support.apple.com/guide/applestyleguide/o-apsg9a401e4f/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Option key](https://support.apple.com/guide/applestyleguide/o-apsg9a401e4f/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Option-click (v.)](https://support.apple.com/guide/applestyleguide/o-apsg9a401e4f/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Option-drag (v.)](https://support.apple.com/guide/applestyleguide/o-apsg9a401e4f/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-## P
-
-**[P-code](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[PAL](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[PB (n., adj.)](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[PC](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[PDF](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[PDF](https://developers.google.com/style/word-list#pdf)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[PIN](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[PM](https://developers.google.com/style/word-list#pm)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[PNG](https://developers.google.com/style/word-list#png)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[POJO](https://developers.google.com/style/word-list#pojo)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[POP](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[PRAM](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[PaaS](https://developers.google.com/style/word-list#paas)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Personal Hotspot, Instant Hotspot](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Phillips screw, Phillips screwdriver](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Photo Stream](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Picture in Picture (n., adj.), picture-in-picture (adj.)](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Pinned Sites](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[PoP](https://developers.google.com/style/word-list#pop)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Portable Document Format](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Post Office Protocol](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[PostgreSQL](https://developers.google.com/style/word-list#postgresql)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Power Nap](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Power Reserve mode](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-## Q
-
-**[Quick Look](https://support.apple.com/guide/applestyleguide/q-apsg38496e66/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[QuickTime Player](https://support.apple.com/guide/applestyleguide/q-apsg38496e66/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-## R
-
-**[RAID](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[RAM](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[RDP](https://developers.google.com/style/word-list#rdp)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[RFC](https://developers.google.com/style/word-list#rfc)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[RFI](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[ROM](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[RSS](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[RTF](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[RTFM](https://developers.google.com/style/word-list#rtfm)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Raise to Speak](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Raise to Wake](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Read Me](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Reader](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Reading List](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Redundant Array of Independent Disks](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Representational State Transfer](https://developers.google.com/style/word-list#rest)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Reset](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Return key](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Rich Text Format](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Right Arrow key](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-## S
-
-**[S-video](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[S/PDIF](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[SAN](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[SAP](https://developers.google.com/style/word-list#sap)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[SATA](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[SD](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[SDH](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[SDK](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[SDR (n., adj.)](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[SDRAM](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[SHA-1](https://developers.google.com/style/word-list#sha-1)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[SIM](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[SIMM](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[SMTP](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[SO-DIMM](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[SQL](https://developers.google.com/style/word-list#sql)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[SSD](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[STONITH, STOMITH](https://developers.google.com/style/word-list#stonith)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[SaaS](https://developers.google.com/style/word-list#saas)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Search (as part of product name)](https://developers.google.com/style/word-list#search)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Search Console](https://developers.google.com/style/word-list#search-console)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Secure Element, Secure Enclave](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Serial ATA](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Setup Assistant](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[SharePlay](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Shared Albums](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Shift key](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Shift lock](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Shift-click (v.)](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Shift-drag (v.)](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Sidecar](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Sign in with Apple](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Simple Mail Transfer Protocol](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Siri](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Siri Remote](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Siri Shortcuts](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Siri Suggestions](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Smart](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Smart Stack](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Space bar](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Spaces](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Split View](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Spotlight](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Stacks](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Standard Roman character set](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Startup Disk](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Stickies](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Sticky Keys](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[SuperDrive](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[System Administrator](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[System Preferences](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[System Settings](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[System folder](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-## T
-
-**[TB (n., adj.)](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[TB/s](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[TCP/IP](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[TOSLINK](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[TV](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[TV monitor](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Tab key, tab character](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Tap to Wake](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Tapback](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Taptic Engine](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Tbit (n., adj.)](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Tbit/s](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Today View](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Torx screwdriver](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Touch Bar](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Touch surface](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Touch ID](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Transmission Control Protocol/Internet Protocol](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Trash](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[True Tone](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[TrueDepth](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Type 1 font](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-## U
-
-**[U.S.](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[UDF](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[UFS](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[UI](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[UI](https://developers.google.com/style/word-list#ui)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[UK](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[UNIX](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[UNIX File System](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[URL](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[URL](https://developers.google.com/style/word-list#url)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[US](https://developers.google.com/style/word-list#us)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[USB](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[USB connector types](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[UTF](https://developers.google.com/style/word-list#utf)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Unicode](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Unicode](https://developers.google.com/style/word-list#unicode)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Uniform Resource Locator](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Universal Disk Format](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Universal Serial Bus](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Unix epoch time](https://developers.google.com/style/word-list#unix-epoch-time)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Unix-like](https://developers.google.com/style/word-list#unix-like)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Up Arrow key](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-## V
-
-**[VLAN attachment](https://developers.google.com/style/word-list#vlan)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[VPN](https://support.apple.com/guide/applestyleguide/v-apsg51b3c806/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[VRAM](https://support.apple.com/guide/applestyleguide/v-apsg51b3c806/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[View control](https://support.apple.com/guide/applestyleguide/v-apsg51b3c806/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Visual Look Up](https://support.apple.com/guide/applestyleguide/v-apsg51b3c806/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Voice Memos](https://support.apple.com/guide/applestyleguide/v-apsg51b3c806/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Volume Down key, Volume Up key](https://support.apple.com/guide/applestyleguide/v-apsg51b3c806/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-## W
-
-**[WAN](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[WWDC](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[WWW](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Walkie-Talkie](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Warning](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Wi-Fi](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Wi-Fi](https://developers.google.com/style/word-list#wifi)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Windows](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[Windows-based (adj.), Windows based (pred. adj.)](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[World Wide Web](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[World Wide Web](https://developers.google.com/style/word-list#world-wide-web)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
-**[Worldwide Developers Conference](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-## Y
-
-**[Y-adapter](https://support.apple.com/guide/applestyleguide/y-apsg52ffc516/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[YAML](https://developers.google.com/style/word-list#yaml)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
 ## a
 
 **[a and an](https://developers.google.com/style/word-list#a-an)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[a.m.](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[A/B testing](https://developers.google.com/style/word-list#ab)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[AAC](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[abbreviations and acronyms](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -1283,11 +85,17 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[above, below](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[AC](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[AC adapter](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[access (n., v.)](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[access (verb)](https://developers.google.com/style/word-list#access)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[access point](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Access Point Name](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[access token](https://developers.google.com/style/word-list#access-token)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -1303,6 +111,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[action description](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Action pop-up menu](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[action sheet](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[actionable](https://developers.google.com/style/word-list#actionable)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
@@ -1310,6 +120,8 @@ Lower case is separate from upper in section divisions. Sorry.
 **[activate, deactivate](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[active](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Activity rings](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[ad hoc](https://developers.google.com/style/word-list#ad-hoc)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -1337,9 +149,13 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[administrator (n.)](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Advanced Video Coding High Definition](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[advertised route priority](https://developers.google.com/style/word-list#advertised-route-priority)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[advisor, Advisor](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[AFP](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[afterward](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -1347,7 +163,17 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[agnostic](https://developers.google.com/style/word-list#agnostic)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[AirDrop](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[AirMac](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[airplane mode](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[AirPlay](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[AirPods](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[AirPort](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[aka](https://developers.google.com/style/word-list#aka)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -1375,11 +201,21 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[alphanumeric](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Alt key](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[alternate (adj.), alternative (adj.)](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[alternating current](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[AM, PM](https://developers.google.com/style/word-list#am-pm)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[ambient light sensor](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[America, American](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[America, American](https://developers.google.com/style/word-list#america)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[American National Standards Institute](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[among](https://developers.google.com/style/word-list#among)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -1393,7 +229,15 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[and/or](https://developers.google.com/style/word-list#and-or)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Android](https://developers.google.com/style/word-list#android)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Android-powered device](https://developers.google.com/style/word-list#android-powered)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[angle brackets](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Animoji](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[ANSI](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[antenna, antennas](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -1407,13 +251,38 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[any time (noun), anytime (adverb)](https://developers.google.com/style/word-list#anytime)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[APFS](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[API](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[API](https://developers.google.com/style/word-list#api)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[API Console key](https://developers.google.com/style/word-list#api-console-key)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[API Console, APIs console,
+    developer console, dev console, or Google API Console](https://developers.google.com/style/word-list#api-console)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[API key](https://developers.google.com/style/word-list#api-key)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[APIs](https://developers.google.com/style/word-list#apis)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[APIs Explorer](https://developers.google.com/style/word-list#apis-explorer)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[APK](https://developers.google.com/style/word-list#apk)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[APN](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[apostrophes](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[app](https://developers.google.com/style/word-list#app)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[app bar](https://developers.google.com/style/word-list#app-bar)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[App Library](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[app names](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[App Store](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[app, application, program](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -1425,17 +294,113 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[appendixes](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Apple](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Authorized Reseller](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Authorized Service Provider](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Books](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Card](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Card Family](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Cash](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Cash Family](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple computer](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Diagnostics](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple event](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple File System](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Filing Protocol](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Fitness+](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Gift Card](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple ID](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Inc.](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple logo](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Loops](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Loops Utility](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Lossless](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple M1 chip](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple menu](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Music](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple News](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple News+](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Online Store](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Original](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Pay](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Pencil](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Remote](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Retail Store](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple services](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple silicon](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Store](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Store app](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Support](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple T2 Security Chip](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Watch](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple Watch app](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple website](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple-authorized (adj.), Apple authorized (pred. adj.)](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[AppleScript](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[applet](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple TV](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple TV Remote](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Apple TV+](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[application](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[application](https://developers.google.com/style/word-list#application)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Application Chooser menu](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[application menu](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[application programming interface](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[application-specific integrated circuit](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Applications folder](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[arabic, Arabic (adj.)](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -1453,7 +418,19 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[as of this writing](https://developers.google.com/style/word-list#as-of-this-writing)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[ASCII](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Asia Pacific (n., adj.)](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[ASIC](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Ask to Buy](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[aspect ratio](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Assistant](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[AssistiveTouch](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[assure](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -1475,21 +452,31 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[audio input, audio input/output, audio output (n., adj.)](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
-**[audio/video](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+**[Audio Units](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
-**[authN, authZ](https://developers.google.com/style/word-list#authn-authz)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+**[audio/video](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[authenticate, authorize](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[authentication and authorization](https://developers.google.com/style/word-list#authentication-and-authorization)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[authN, authZ](https://developers.google.com/style/word-list#authn-authz)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[autism (n.), autistic (adj.)](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[auto (prefix)](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Auto Exposure](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Auto Focus](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[auto mode VPC network](https://developers.google.com/style/word-list#auto-mode-vpc)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Auto Unlock](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[auto*](https://developers.google.com/style/word-list#auto)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[AutoFill](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[autohealing](https://developers.google.com/style/word-list#autohealing)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -1511,7 +498,11 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[autoupdate](https://developers.google.com/style/word-list#autoupdate)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[AVCHD](https://support.apple.com/guide/applestyleguide/a-apsg3acde405/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 ## b
+
+**[Back button](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[back end (n.), back-end (adj.)](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -1526,6 +517,8 @@ Lower case is separate from upper in section divisions. Sorry.
 **[backslash](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[backspace (n., v., adj.)](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Backspace key](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[backup (n., adj.), back up (v.)](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -1571,6 +564,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[between versus among](https://developers.google.com/style/word-list#between)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[BGP](https://developers.google.com/style/word-list#bgp)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[bidirectional (adj.)](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[big data](https://developers.google.com/style/word-list#big-data)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
@@ -1593,7 +588,11 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[bits per second](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Black (adj.)](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[black box/white box (n., adj.)](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Black Friday](https://developers.google.com/style/word-list#black-friday)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[black hat/white hat](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -1625,13 +624,27 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[blinking](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Blu-ray](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Blue appearance](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[blue-green](https://developers.google.com/style/word-list#blue-green)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Bluetooth](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[BMaaS](https://developers.google.com/style/word-list#bmaas)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[board](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Book Store](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[bookmark (n., v., adj.)](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Books](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[boolean](https://developers.google.com/style/word-list#boolean)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Boolean (adj.)](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[boot](https://support.apple.com/guide/applestyleguide/b-apsg1a3a0436/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -1705,9 +718,13 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[calendar](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Calendar](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[callouts](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[camcorder](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Camera Roll](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[can](https://developers.google.com/style/word-list#can)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -1723,6 +740,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[capitalization](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Caps Lock key](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[captions](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[card](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -1731,11 +750,17 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[caret](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[CarPlay](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[carriage return](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[carrier](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[catalog](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Catalyst](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[CD](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[cell phone, cellphone](https://developers.google.com/style/word-list#cell-phone)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -1758,6 +783,8 @@ Lower case is separate from upper in section divisions. Sorry.
 **[chapter](https://developers.google.com/style/word-list#chapter)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[character](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Character Viewer](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[chat (n., v., adj.)](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -1789,6 +816,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[clear](https://developers.google.com/style/word-list#clear)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[CLI](https://developers.google.com/style/word-list#cli)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[click](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[click](https://developers.google.com/style/word-list#click)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
@@ -1817,6 +846,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[clip art](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Clipboard](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[close](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[close button](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -1824,6 +855,15 @@ Lower case is separate from upper in section divisions. Sorry.
 **[closed captions (n.), closed captioning (n., adj.), closed-captioned (adj.)](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[cloud](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Cloud](https://developers.google.com/style/word-list#cloud)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Cloud
+    console](https://developers.google.com/style/word-list#gcp-console)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Cloud SDK](https://developers.google.com/style/word-list#cloud-sdk)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[CLUT](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[co (prefix)](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -1867,7 +907,11 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[colors](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Colors window](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[column view](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Column View button](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[combined action](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -1875,11 +919,19 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[command](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Command key](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[command line (n.), command-line (adj.)](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[command line (noun), command-line (adjective)](https://developers.google.com/style/word-list#command-line)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[command names](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Command-click (v.)](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Command-drag (v.)](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Command-key equivalent](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[commas](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -1888,6 +940,8 @@ Lower case is separate from upper in section divisions. Sorry.
 **[compact disc](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[companion iPhone](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Company, Co.](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[compile time (n.), compile-time (adj.)](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -1923,6 +977,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[contacts, Contacts](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Container Engine](https://developers.google.com/style/word-list#container-engine)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[content type](https://developers.google.com/style/word-list#content-type)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[contents (noun)](https://developers.google.com/style/word-list#contents)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
@@ -1931,9 +987,19 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[contractions](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Control Center](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[control character (n.), control-character (adj.)](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[control key](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Control key](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Control Strip](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Control+S, Command+S, and other keyboard commands](https://developers.google.com/style/word-list#control-keys)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Control-click (v.)](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[convert to](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -1943,6 +1009,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[copy](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Copy and paste](https://developers.google.com/style/word-list#copy-paste)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[copy-protect (v.), copy-protected (adj., pred. adj.), copy-protection (n.)](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[copyright page](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -1951,16 +1019,26 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[core](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Corporation, Corp.](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[corrupted](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[could](https://developers.google.com/style/word-list#could)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[country](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[CPU](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[CPU](https://developers.google.com/style/word-list#cpu)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[CR](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[crash](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[crazy, bonkers, mad, lunatic, insane,
     loony](https://developers.google.com/style/word-list#crazy)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Create a new ...](https://developers.google.com/style/word-list#create-new)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[creator types](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -1974,6 +1052,10 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[crown](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[CSV](https://developers.google.com/style/word-list#csv)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Ctrl](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[curated roles](https://developers.google.com/style/word-list#curated-roles)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[curly brackets](https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -1986,13 +1068,23 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[custom mode VPC network](https://developers.google.com/style/word-list#custom-mode-vpc-network)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Cyber Monday](https://developers.google.com/style/word-list#cyber-monday)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 ## d
+
+**[DAC](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Daily Cash](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Dark Mode](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[dash](https://developers.google.com/style/word-list#dash)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[dash (em)](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[dash (en)](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Dashboard](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[dashboard](https://developers.google.com/style/word-list#dashboard)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -2052,6 +1144,10 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[dehighlight, dehighlighted](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[DEL character](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Delete key](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[demilitarized zone (DMZ)](https://developers.google.com/style/word-list#dmz)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[denigrate](https://developers.google.com/style/word-list#denigrate)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
@@ -2082,7 +1178,13 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[determinate progress bar](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Developer's Guide](https://developers.google.com/style/word-list#developers-guide)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Developers Console](https://developers.google.com/style/word-list#developers-console)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[device](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[DevOps](https://developers.google.com/style/word-list#devops)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[diacritical mark](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2110,7 +1212,11 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[digital camera](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Digital Crown](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[digital rights management](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Digital Touch](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[digital video (n., adj.)](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2118,9 +1224,13 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[digital video recorder](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Digital Visual Interface](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[digital-to-analog converter](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[dimensions](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[DIMM](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[dimmed](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2176,9 +1286,19 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[division sign](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[DJ](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[DNS server policy](https://developers.google.com/style/word-list#dns-server-policy)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[DNSKEY](https://developers.google.com/style/word-list#dnskey)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[do](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Do Not Disturb](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[dock](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Dock](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[dock connector](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2196,7 +1316,11 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[dojo](https://developers.google.com/style/word-list#dojo)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Dolby formats](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[domain name registrar](https://developers.google.com/style/word-list#domain-name-registrar)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Domain Name System Security Extensions (DNSSEC)](https://developers.google.com/style/word-list#dnssec)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[dos and don’ts](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2218,9 +1342,13 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[down arrow](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Down Arrow key](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[download (n., v.), downloadable (adj.)](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[downscope](https://developers.google.com/style/word-list#downscope)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Downtime](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[dpi](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2232,11 +1360,17 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[drag handle](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[DRAM](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[drawer](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[drive](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[driver](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[DRM](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[DRM-free (adj.)](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[drop box](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2268,6 +1402,18 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[dummy variable](https://developers.google.com/style/word-list#dummy-variable)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[DV](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[DVD](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[DVD drive](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[DVI](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[DVR](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Dynamic Island](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[dynamic random-access memory](https://support.apple.com/guide/applestyleguide/d-apsg7af4f5d0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 ## e
@@ -2292,6 +1438,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[ebook (n.)](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[ECMP](https://developers.google.com/style/word-list#ecmp)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[ecommerce](https://developers.google.com/style/word-list#ecommerce)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[edge availability domain](https://developers.google.com/style/word-list#edge-availability-domain)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
@@ -2307,6 +1455,8 @@ Lower case is separate from upper in section divisions. Sorry.
 **[either](https://developers.google.com/style/word-list#either)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[eject (trans. v.)](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Eject button](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[electromagnetic interference](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2325,6 +1475,10 @@ Lower case is separate from upper in section divisions. Sorry.
 **[email alias](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[embed](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Emergency SOS](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[EMI](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[emoji](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2346,6 +1500,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[energy management software](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[ENERGY STAR](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[energy-saving (adj.)](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[enhanced definition (n.), enhanced-definition (adj.)](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -2356,9 +1512,13 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[enter](https://developers.google.com/style/word-list#enter)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Enter key](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[entitled](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[ephemeral external IP address](https://developers.google.com/style/word-list#ephemeral-external-ip-address)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[EPUB (adj.)](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[equal sign](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2366,11 +1526,21 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[error-prone (adjective)](https://developers.google.com/style/word-list#error-prone)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Esc key](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Escape key](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[et al.](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[etc.](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[etc.](https://developers.google.com/style/word-list#etc)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Ethernet](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[ETL](https://developers.google.com/style/word-list#etl)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[EU](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[events, Events](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2388,17 +1558,25 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[exploit](https://developers.google.com/style/word-list#exploit)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[ExpressCard](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[extended desktop (n., adj.)](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[external display](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[external IP address](https://developers.google.com/style/word-list#external-ip-address)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[external VPN gateway](https://developers.google.com/style/word-list#external-vpn-gateway)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
-**[external display](https://support.apple.com/guide/applestyleguide/e-apsg076a7313/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
 **[extract](https://developers.google.com/style/word-list#extract)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 ## f
+
+**[F1, F2, F3…](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Face ID](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[FaceTime](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[fail over (verb), failover (noun, adjective)](https://developers.google.com/style/word-list#failover)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -2410,11 +1588,21 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[family pack](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Family Sharing](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[FAQ](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Fast Ethernet (100Base-T)](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[fast-forward (n., v., adj.)](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[fat](https://developers.google.com/style/word-list#fat)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Favorites](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[fax (n., v., adj.)](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[FB-DIMM](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[female](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2422,7 +1610,11 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[fewer, less](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Fiber Gigabit Ethernet](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[fiber optics (n.), fiber optic (adj.)](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Fibre Channel](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[field](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2446,7 +1638,11 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[file system (n.), file-system (adj.)](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[File Transfer Protocol](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[file types](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[FileMaker](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[filename](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2454,15 +1650,21 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[filename extensions](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Files app](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[fill in; fill out](https://developers.google.com/style/word-list#fill-in)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[final solution](https://developers.google.com/style/word-list#final-solution)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Finder](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[fintech](https://developers.google.com/style/word-list#fintech)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[firewall](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[firewalls](https://developers.google.com/style/word-list#firewalls)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[FireWire](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[firmware](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2491,6 +1693,12 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[flowchart](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Fn key](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Focus](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Focus filters](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[folder](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[following](https://developers.google.com/style/word-list#following)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
@@ -2500,6 +1708,8 @@ Lower case is separate from upper in section divisions. Sorry.
 **[font size](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[font style](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Fonts window](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[foo](https://developers.google.com/style/word-list#foo)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -2513,13 +1723,19 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[force quit](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Force Touch](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[form factor](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[format (n.)](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[format (v.)](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Forward button](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[forward compatibility](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Forward Delete key](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[forward-compatible (adj.)](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2535,6 +1751,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[free](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[FreeBSD](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[freeze](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[freeze frame (n.), freeze-frame (adj.)](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -2549,9 +1767,13 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[frontend](https://developers.google.com/style/word-list#frontend)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[FTP](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[full](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[full-screen (adj.), full screen (pred. adj.)](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Function key](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[function keys](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2559,13 +1781,31 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[functionality](https://developers.google.com/style/word-list#functionality)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Fusion Drive](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[future tense](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[future, in the future](https://developers.google.com/style/word-list#future)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Fwd Del key](https://support.apple.com/guide/applestyleguide/f-apsg1d47a4df/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 ## g
 
 **[gallery view](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Gallery View button](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[GB (n., adj.)](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[GB/s](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Gbit (n., adj.)](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Gbit/s](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[GBps](https://developers.google.com/style/word-list#gigabytes-per-second)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Gbps](https://developers.google.com/style/word-list#gbps)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[gcloud CLI](https://developers.google.com/style/word-list#gcloud)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -2576,11 +1816,23 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[generation](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Genius](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[gestures](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[GFE](https://developers.google.com/style/word-list#gfe)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[ghetto](https://developers.google.com/style/word-list#ghetto)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[GHz (n., adj.)](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[GIF](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[GIF](https://developers.google.com/style/word-list#gif)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[gigabit](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Gigabit Ethernet (1000Base-T)](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[gigabits per second](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2592,9 +1844,39 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[gimp, gimpy](https://developers.google.com/style/word-list#gimp)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[GKE](https://developers.google.com/style/word-list#gke)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[GKE node](https://developers.google.com/style/word-list#gke-node)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[glyph](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Google Account, Google Accounts](https://developers.google.com/style/word-list#google-account)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Google API Client Library for LANGUAGE (Java, .NET, etc.)](https://developers.google.com/style/word-list#google-api-client-library)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Google API Console, Google APIs Console](https://developers.google.com/style/word-list#google-api-console)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Google Cloud](https://developers.google.com/style/word-list#gcp)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Google Cloud console](https://developers.google.com/style/word-list#google-cloud-platform-console)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Google Cloud project ID](https://developers.google.com/style/word-list#gcp-project-id)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Google Developers Console](https://developers.google.com/style/word-list#google-developers-console)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Google I/O](https://developers.google.com/style/word-list#google-io)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Google Play services](https://developers.google.com/style/word-list#google-play-services)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Google Play services SDK](https://developers.google.com/style/word-list#google-play-services-SDK)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Google, Googling](https://developers.google.com/style/word-list#google)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[google.dev](https://developers.google.com/style/word-list#google-dot-dev)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[GPU](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Grab](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[grab point](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2614,6 +1896,8 @@ Lower case is separate from upper in section divisions. Sorry.
 **[graphical user interface](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[graphics card](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Graphics Interchange Format](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[graphics processing unit](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2650,6 +1934,10 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[gsutil](https://developers.google.com/style/word-list#gsutil)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[GUI](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Guides](https://support.apple.com/guide/applestyleguide/g-apsg4104680a/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[guru](https://developers.google.com/style/word-list#guru)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[guys, you guys](https://developers.google.com/style/word-list#guys)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
@@ -2657,6 +1945,8 @@ Lower case is separate from upper in section divisions. Sorry.
 **[gypsy](https://developers.google.com/style/word-list#gypsy)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 ## h
+
+**[H.264](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[hackathon](https://developers.google.com/style/word-list#hackathon)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -2686,6 +1976,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[haptic (adj.), haptics (n.)](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Haptic Touch](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[hard copy](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[hard disk (n., adj.)](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -2697,6 +1989,14 @@ Lower case is separate from upper in section divisions. Sorry.
 **[hardcode (verb), hardcoded (adjective)](https://developers.google.com/style/word-list#hardcode)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[hardcover](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[HD (n., adj.)](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[HDMI](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[HDR (n., adj.)](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[HDV](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[he, him, his](https://developers.google.com/style/word-list#he)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -2716,11 +2016,17 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[help](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Help button](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[help tag](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[hexadecimal](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[hexagonal-head screw](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[HFS Plus](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[HFS Plus (Journaled)](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[hi-res](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2748,6 +2054,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[highlighting (n.)](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Hindi](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[hit](https://developers.google.com/style/word-list#hit)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[hit (n.)](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -2760,13 +2068,19 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[holiday, the holidays](https://developers.google.com/style/word-list#holiday)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Home button](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[home folder, home directory](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Home Screen](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[home screen](https://developers.google.com/style/word-list#home-screen)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[home theater (n., adj.)](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[homepage](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[HomePod](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[hostname](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2782,17 +2096,41 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[hover (v.)](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Hover Text](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[HTML](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[HTTP](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[HTTPS](https://developers.google.com/style/word-list#https)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[HUD](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[humor](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[hypertext link](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Hypertext Markup Language](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Hypertext Transfer Protocol](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[hyphenation](https://support.apple.com/guide/applestyleguide/h-apsg9dac5903/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 ## i
 
+**[I-beam](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[i.e.](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[i.e.](https://developers.google.com/style/word-list#ie)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[I/O](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[I/O (see also Google I/O)](https://developers.google.com/style/word-list#io)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[IaaS](https://developers.google.com/style/word-list#iaas)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[IAM](https://developers.google.com/style/word-list#iam)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[iBooks](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2808,47 +2146,41 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[iCloud Tabs button](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
-**[iMac](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[iMessage](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[iMovie](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[iOS](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[iOS device](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[iPad](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[iPadOS](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[iPadOS device](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[iPhone](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[iPod](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[iTunes Gift Card](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[iTunes Store](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
-**[iTunes U](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
 **[icon](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[icon view](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Icon View button](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[ID](https://developers.google.com/style/word-list#id)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[IEEE](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[If](https://developers.google.com/style/word-list#if)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[if necessary](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[if, whether](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[IM](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[iMac](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[image](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[IMAP](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[imbed](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[iMessage](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[iMovie](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[impact](https://developers.google.com/style/word-list#impact)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[impairment](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Important](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[in front](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2863,6 +2195,8 @@ Lower case is separate from upper in section divisions. Sorry.
 **[inch (in.)](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[inclusive language](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Incorporated, Inc.](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[incrementer](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2879,6 +2213,8 @@ Lower case is separate from upper in section divisions. Sorry.
 **[indicator light](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[industry standard (n.), industry-standard (adj.)](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Info window](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[information](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2900,6 +2236,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[input (n., adj.)](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Input menu](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[input/output](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[insertion point](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -2916,11 +2254,27 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[instance group](https://developers.google.com/style/word-list#instance-group)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Instant Hotspot](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[instant message](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Institute of Electrical and Electronics Engineers](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[insure](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Integrated Services Digital Network](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Intel](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Intel Core](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Intel Xeon](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[intercluster](https://developers.google.com/style/word-list#intercluster)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Interconnect connection](https://developers.google.com/style/word-list#interconnect-connection)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Interconnect connection location](https://developers.google.com/style/word-list#interconnect-connection-location)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[interconnect type](https://developers.google.com/style/word-list#interconnect-type)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -2932,15 +2286,23 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[interface card](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[internal disk drive](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[internal DNS](https://developers.google.com/style/word-list#internal-dns)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[internal IP address](https://developers.google.com/style/word-list#internal-ip-address)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
-**[internal disk drive](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+**[Internationalized Domain Name (IDN)](https://developers.google.com/style/word-list#idn)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[internet](https://developers.google.com/style/word-list#internet)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[internet addresses](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Internet Key Exchange (IKE)](https://developers.google.com/style/word-list#ike)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Internet Message Access Protocol](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Internet Protocol](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[internet service provider](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2958,7 +2320,43 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[invoice](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[iOS](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[iOS device](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[IoT](https://developers.google.com/style/word-list#iot)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[IP](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[IP](https://developers.google.com/style/word-list#ip)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[iPad](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[iPadOS](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[iPadOS device](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[iPhone](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[iPod](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[IPsec](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[IPsec](https://developers.google.com/style/word-list#ipsec)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[IrDA](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[ISDN](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[ISP](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[italics (n.), italic (adj.)](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[iTunes Gift Card](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[iTunes Store](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[iTunes U](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[it’s, its](https://support.apple.com/guide/applestyleguide/i-apsg346ef241/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2972,7 +2370,15 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[jargon](https://support.apple.com/guide/applestyleguide/j-apsgf88bd162/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[JavaScript](https://support.apple.com/guide/applestyleguide/j-apsgf88bd162/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[jiggle](https://support.apple.com/guide/applestyleguide/j-apsgf88bd162/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Joint Photographic Experts Group](https://support.apple.com/guide/applestyleguide/j-apsgf88bd162/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[JPEG](https://support.apple.com/guide/applestyleguide/j-apsgf88bd162/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[JPEG](https://developers.google.com/style/word-list#jpeg)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[junk mail (n., adj.)](https://support.apple.com/guide/applestyleguide/j-apsgf88bd162/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -2982,18 +2388,30 @@ Lower case is separate from upper in section divisions. Sorry.
 
 ## k
 
+**[K](https://support.apple.com/guide/applestyleguide/k-apsgf9067ae8/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[k8s](https://developers.google.com/style/word-list#k8s)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
-**[kHz (n., adj.)](https://support.apple.com/guide/applestyleguide/k-apsgf9067ae8/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+**[KB (n., adj.)](https://support.apple.com/guide/applestyleguide/k-apsgf9067ae8/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[KB/s](https://support.apple.com/guide/applestyleguide/k-apsgf9067ae8/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[kbit (n., adj.)](https://support.apple.com/guide/applestyleguide/k-apsgf9067ae8/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[kbit/s](https://support.apple.com/guide/applestyleguide/k-apsgf9067ae8/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[KBps](https://developers.google.com/style/word-list#kilobytes-per-second)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Kbps](https://developers.google.com/style/word-list#kbps)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Kbyte](https://support.apple.com/guide/applestyleguide/k-apsgf9067ae8/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[kebab case, kabob case, kebab-case,
     kabob-case](https://developers.google.com/style/word-list#kebab-case)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[kebab, kabob, kebab menu, kabob menu](https://developers.google.com/style/word-list#kebab)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Kerberos](https://support.apple.com/guide/applestyleguide/k-apsgf9067ae8/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[key](https://developers.google.com/style/word-list#key)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -3027,6 +2445,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[keyword](https://support.apple.com/guide/applestyleguide/k-apsgf9067ae8/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[kHz (n., adj.)](https://support.apple.com/guide/applestyleguide/k-apsgf9067ae8/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[kill](https://support.apple.com/guide/applestyleguide/k-apsgf9067ae8/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[kill](https://developers.google.com/style/word-list#kill)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
@@ -3041,13 +2461,21 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[kilohertz](https://support.apple.com/guide/applestyleguide/k-apsgf9067ae8/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Korea](https://support.apple.com/guide/applestyleguide/k-apsgf9067ae8/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[K–12](https://support.apple.com/guide/applestyleguide/k-apsgf9067ae8/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 ## l
+
+**[L2 cache, L3 cache](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[label](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[labeled, labeling](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[lame](https://developers.google.com/style/word-list#lame)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[LAN](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[laptop computer](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -3061,11 +2489,23 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[launch](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Launchpad](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Layer](https://developers.google.com/style/word-list#layer)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[LCD](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[LCI](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[lead-in (noun)](https://developers.google.com/style/word-list#lead-in)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[learnings](https://developers.google.com/style/word-list#learnings)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[LED](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[left arrow](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Left Arrow key](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[left side](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -3085,6 +2525,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[let's (as a contraction of let us)](https://developers.google.com/style/word-list#lets)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Letter of Authorization and Connecting Facility Assignment (LOA-CFA)](https://developers.google.com/style/word-list#loa-cfa)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[letterboxing (n.), letterbox (v., adj.), letterboxed (adj.)](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[letters as letters](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -3096,6 +2538,8 @@ Lower case is separate from upper in section divisions. Sorry.
 **[library](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[lid](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[LiDAR](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[lifecycle](https://developers.google.com/style/word-list#lifecycle)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -3127,6 +2571,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[list view](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[List View button](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[lists (bulleted)](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[lists (numbered)](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -3136,6 +2582,10 @@ Lower case is separate from upper in section divisions. Sorry.
 **[little-endian](https://developers.google.com/style/word-list#little-endian)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[live link](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Live Photos](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Live Text](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[livestream](https://developers.google.com/style/word-list#livestream)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -3155,7 +2605,11 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[localize (v.)](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Location Services](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[lock](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Lock Screen](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[lock screen](https://developers.google.com/style/word-list#lock-screen)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -3171,17 +2625,23 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[login (noun or adjective), log in (verb)](https://developers.google.com/style/word-list#login)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Login Items](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[long press](https://developers.google.com/style/word-list#long-press)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[long press (n.), long-press (adj.)](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[look and feel (n.)](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Look Around](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[lookup (n., adj.), look up (v.)](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[love](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[low bit (n.), low-bit (adj.)](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Low Power Mode](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[low resolution (n.), low-resolution (adj.)](https://support.apple.com/guide/applestyleguide/l-apsg087a9dba/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -3195,15 +2655,49 @@ Lower case is separate from upper in section divisions. Sorry.
 
 ## m
 
+**[M-JPEG](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[M1 chip](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Mac](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Mac App Store](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Mac Catalyst](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Mac mini](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Mac operating systems](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Mac Pro](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Macao](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[MacBook](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[machine](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[machine language (n.), machine-language (adj.)](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Macintosh](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[macOS](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[macOS](https://developers.google.com/style/word-list#macos)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[macOS Server](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
-**[machine](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+**[Mac OS](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
-**[machine language (n.), machine-language (adj.)](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+**[Mac OS Extended (Journaled) format](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Mac OS Extended format](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Mac OS X](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Mac OS X Server](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Mail](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[mailbox](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -3225,6 +2719,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[man-in-the-middle attack](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Managed Apple ID](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[managed instance group (MIG)](https://developers.google.com/style/word-list#mig)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[manmade, man made](https://developers.google.com/style/word-list#manmade)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
@@ -3234,6 +2730,8 @@ Lower case is separate from upper in section divisions. Sorry.
 **[manpower, man power, man-power](https://developers.google.com/style/word-list#manpower)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[manual](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Markdown](https://developers.google.com/style/word-list#markdown)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[markup (noun), mark up (verb)](https://developers.google.com/style/word-list#markup)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -3249,6 +2747,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[mate](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Material Design](https://developers.google.com/style/word-list#material-design)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[matrix](https://developers.google.com/style/word-list#matrix)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[maximize](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -3259,11 +2759,27 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[may, can](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[MB (n., adj.)](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[MB/s](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Mbit (n., adj.)](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Mbit/s](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[MBps](https://developers.google.com/style/word-list#megabytes-per-second)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Mbps](https://developers.google.com/style/word-list#mbps)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[measurement](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Media Eject key](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[media type](https://developers.google.com/style/word-list#media-type)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[media, medium](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Medical ID](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[mega (prefix)](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -3277,11 +2793,17 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[megahertz](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Memoji](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Memories](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[memory](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[memory address, memory location](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[menu bar](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Menu button](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[menu names](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -3305,6 +2827,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[metropolitan area (metro)](https://developers.google.com/style/word-list#metro)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[MHz (n., adj.)](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[mic (n.)](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[mice](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -3317,6 +2841,10 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[microservices](https://developers.google.com/style/word-list#microservices)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Microsoft Windows](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[MIDI](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[might](https://developers.google.com/style/word-list#might)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[mike, miked, miking (v., adj.)](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -3325,9 +2853,15 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[million instructions per second](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[MIME](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[MIME type](https://developers.google.com/style/word-list#mime-type)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[mini (prefix)](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[mini-DVI](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[MiniDV](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[minimize (v.), minimized (adj.)](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -3335,7 +2869,11 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[minus sign](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[MIPS](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[mixed-directional (adj.)](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[ML](https://developers.google.com/style/word-list#ml)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[mobile](https://developers.google.com/style/word-list#mobile)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -3371,6 +2909,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[monospaced (adj.)](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[More button](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[most recent](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[motherboard](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -3381,6 +2921,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[mouse](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Mouse Keys](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[mouse scaling (n.), mouse-scaling (adj.)](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[mouse-down event](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -3390,6 +2932,14 @@ Lower case is separate from upper in section divisions. Sorry.
 **[mousepad](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[movie](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[MP3](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[MPEG](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[MPEG Audio Layer 3](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[MTU](https://developers.google.com/style/word-list#mtu)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[multi (prefix)](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -3403,6 +2953,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[multi-tenancy](https://developers.google.com/style/word-list#multi-tenancy)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Multi-Touch](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[multicloud](https://developers.google.com/style/word-list#multicloud)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[multicore](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -3413,9 +2965,21 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[multiprocessing, multiprocessor](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Multipurpose Internet Mail Extension](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Music](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Musical Instrument Digital Interface](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[must](https://developers.google.com/style/word-list#must)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Mute key](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[My Photo Stream](https://support.apple.com/guide/applestyleguide/m-apsg72b28652/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 ## n
+
+**[N/A](https://developers.google.com/style/word-list#na)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[name server](https://support.apple.com/guide/applestyleguide/n-apsgb2f4a0d6/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -3435,13 +2999,13 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[network](https://support.apple.com/guide/applestyleguide/n-apsgb2f4a0d6/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
-**[network IP address](https://developers.google.com/style/word-list#network-ip-address)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
-
 **[network address translation (NAT)](https://developers.google.com/style/word-list#nat)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[network endpoint group (NEG)](https://developers.google.com/style/word-list#neg)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[network interface controller (NIC)](https://developers.google.com/style/word-list#nic)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[network IP address](https://developers.google.com/style/word-list#network-ip-address)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[network time server](https://support.apple.com/guide/applestyleguide/n-apsgb2f4a0d6/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -3453,11 +3017,15 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[new, newer](https://developers.google.com/style/word-list#new)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[News](https://support.apple.com/guide/applestyleguide/n-apsgb2f4a0d6/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[newsgroup](https://support.apple.com/guide/applestyleguide/n-apsgb2f4a0d6/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[nickel-metal-hydride](https://support.apple.com/guide/applestyleguide/n-apsgb2f4a0d6/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[ninja](https://developers.google.com/style/word-list#ninja)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[NLU](https://developers.google.com/style/word-list#NLU)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[non (prefix)](https://support.apple.com/guide/applestyleguide/n-apsgb2f4a0d6/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -3473,13 +3041,21 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[nonstartup disk](https://support.apple.com/guide/applestyleguide/n-apsgb2f4a0d6/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[NoOps](https://developers.google.com/style/word-list#noops)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[normal installation](https://support.apple.com/guide/applestyleguide/n-apsgb2f4a0d6/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[normal user](https://support.apple.com/guide/applestyleguide/n-apsgb2f4a0d6/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[NoSQL](https://developers.google.com/style/word-list#nosql)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Note](https://support.apple.com/guide/applestyleguide/n-apsgb2f4a0d6/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[notebook computer](https://support.apple.com/guide/applestyleguide/n-apsgb2f4a0d6/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[notes, Notes](https://support.apple.com/guide/applestyleguide/n-apsgb2f4a0d6/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Notification Center](https://support.apple.com/guide/applestyleguide/n-apsgb2f4a0d6/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[notification drawer](https://developers.google.com/style/word-list#notification-drawer)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -3499,7 +3075,11 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[numerics (n., adj.)](https://support.apple.com/guide/applestyleguide/n-apsgb2f4a0d6/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[NVIDIA](https://support.apple.com/guide/applestyleguide/n-apsgb2f4a0d6/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 ## o
+
+**[OAuth 2.0](https://developers.google.com/style/word-list#oauth-20)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[off-the-shelf, commercial off-the-shelf
     (COTS)](https://developers.google.com/style/word-list#off-the-shelf)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
@@ -3509,6 +3089,10 @@ Lower case is separate from upper in section divisions. Sorry.
 **[offscreen (adj., adv.)](https://support.apple.com/guide/applestyleguide/o-apsg9a401e4f/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[offsite](https://support.apple.com/guide/applestyleguide/o-apsg9a401e4f/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[OK](https://support.apple.com/guide/applestyleguide/o-apsg9a401e4f/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[OK or okay](https://developers.google.com/style/word-list#ok)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[old, older](https://developers.google.com/style/word-list#old)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -3554,9 +3138,21 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[option (in command-line context)](https://developers.google.com/style/word-list#option)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Option key](https://support.apple.com/guide/applestyleguide/o-apsg9a401e4f/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[option names](https://support.apple.com/guide/applestyleguide/o-apsg9a401e4f/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Option-click (v.)](https://support.apple.com/guide/applestyleguide/o-apsg9a401e4f/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Option-drag (v.)](https://support.apple.com/guide/applestyleguide/o-apsg9a401e4f/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[optionally](https://support.apple.com/guide/applestyleguide/o-apsg9a401e4f/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[OS](https://developers.google.com/style/word-list#os)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[OS X](https://support.apple.com/guide/applestyleguide/o-apsg9a401e4f/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[OS X Server](https://support.apple.com/guide/applestyleguide/o-apsg9a401e4f/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[outbox](https://support.apple.com/guide/applestyleguide/o-apsg9a401e4f/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -3578,13 +3174,19 @@ Lower case is separate from upper in section divisions. Sorry.
 
 ## p
 
+**[P-code](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[p.m.](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[PaaS](https://developers.google.com/style/word-list#paas)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[page](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[page](https://developers.google.com/style/word-list#page)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[pair, paired](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[PAL](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[pane](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -3616,6 +3218,14 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[pathnames](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[PB (n., adj.)](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[PC](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[PDF](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[PDF](https://developers.google.com/style/word-list#pdf)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[peer gateway](https://developers.google.com/style/word-list#peer-gateway)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[peer network](https://developers.google.com/style/word-list#peer-network)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
@@ -3640,6 +3250,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[persistent disk](https://developers.google.com/style/word-list#persistent-disk)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Personal Hotspot, Instant Hotspot](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[personally identifiable information (PII)](https://developers.google.com/style/word-list#pii)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[petabyte](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -3647,19 +3259,29 @@ Lower case is separate from upper in section divisions. Sorry.
 **[pets versus cattle, pets vs. cattle, pets
     v. cattle](https://developers.google.com/style/word-list#pets-versus-cattle)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Phillips screw, Phillips screwdriver](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[phone numbers](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[photo](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Photo Stream](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[picker](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[picture](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Picture in Picture (n., adj.), picture-in-picture (adj.)](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[pillarboxing (n.), pillarbox (v., adj.), pillarboxed (adj.)](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[PIN](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[pin (n., v.)](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[pinch (v.)](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Pinned Sites](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[pixel](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -3693,6 +3315,10 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[plus sign](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[PM](https://developers.google.com/style/word-list#pm)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[PNG](https://developers.google.com/style/word-list#png)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[podcast, podcasting (n., v., adj.)](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[point (n., adj.)](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -3704,6 +3330,12 @@ Lower case is separate from upper in section divisions. Sorry.
 **[point to](https://developers.google.com/style/word-list#point-to)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[pointer](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[POJO](https://developers.google.com/style/word-list#pojo)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[POP](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[PoP](https://developers.google.com/style/word-list#pop)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[pop-up (n., adj.)](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -3721,6 +3353,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[portable computer](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Portable Document Format](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[portal](https://developers.google.com/style/word-list#portal)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[possessives](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -3730,6 +3364,10 @@ Lower case is separate from upper in section divisions. Sorry.
 **[post (prefix)](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[post (v.)](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Post Office Protocol](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[PostgreSQL](https://developers.google.com/style/word-list#postgresql)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[postmortem](https://developers.google.com/style/word-list#postmortem)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -3741,11 +3379,15 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[power cord](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Power Nap](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[power off (v.)](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[power on (v.)](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[power port](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Power Reserve mode](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[power switch](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -3756,6 +3398,8 @@ Lower case is separate from upper in section divisions. Sorry.
 **[power-up (n., adj.), power up (v.)](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[practitioner](https://developers.google.com/style/word-list#practitioner)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[PRAM](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[pre (prefix)](https://support.apple.com/guide/applestyleguide/p-apsg4473eab0/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -3863,9 +3507,13 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[question-mark button](https://support.apple.com/guide/applestyleguide/q-apsg38496e66/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Quick Look](https://support.apple.com/guide/applestyleguide/q-apsg38496e66/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[quick reference card](https://support.apple.com/guide/applestyleguide/q-apsg38496e66/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[quick, quickly](https://developers.google.com/style/word-list#quick)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[QuickTime Player](https://support.apple.com/guide/applestyleguide/q-apsg38496e66/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[quit](https://support.apple.com/guide/applestyleguide/q-apsg38496e66/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -3881,21 +3529,37 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[radio-frequency interference](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[RAID](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Raise to Speak](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Raise to Wake](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[RAM](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[random-access memory](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[ransomware](https://developers.google.com/style/word-list#ransomware)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[raw](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[RDP](https://developers.google.com/style/word-list#rdp)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[re (prefix)](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[re*](https://developers.google.com/style/word-list#re)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Read Me](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[read-only](https://developers.google.com/style/word-list#read-only)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[read-only memory](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[read/write (adj.)](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Reader](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Reading List](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[real time (n.), real-time (adj.)](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -3916,6 +3580,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[redownload](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Redundant Array of Independent Disks](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[reference](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[regex](https://developers.google.com/style/word-list#regex)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
@@ -3930,9 +3596,13 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[repo](https://developers.google.com/style/word-list#repo)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Representational State Transfer](https://developers.google.com/style/word-list#rest)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[representative](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[reservation, off the](https://developers.google.com/style/word-list#reservation)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Reset](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[reset (v., adj.)](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -3960,9 +3630,19 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[return character](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Return key](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[review](https://developers.google.com/style/word-list#review)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[RFC](https://developers.google.com/style/word-list#rfc)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[RFI](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Rich Text Format](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[right arrow](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Right Arrow key](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[right side](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -3977,6 +3657,8 @@ Lower case is separate from upper in section divisions. Sorry.
 **[road map](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[roll out](https://developers.google.com/style/word-list#roll out)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[ROM](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[roman, Roman (adj.)](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -3994,6 +3676,12 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[router](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[RSS](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[RTF](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[RTFM](https://developers.google.com/style/word-list#rtfm)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[rule](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[rule of thumb](https://support.apple.com/guide/applestyleguide/r-apsgccfa0219/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -4008,9 +3696,17 @@ Lower case is separate from upper in section divisions. Sorry.
 
 ## s
 
+**[S-video](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[S/PDIF](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[SaaS](https://developers.google.com/style/word-list#saas)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[safe mode](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[sample rate](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[SAN](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[sane](https://developers.google.com/style/word-list#sane)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -4019,6 +3715,10 @@ Lower case is separate from upper in section divisions. Sorry.
 **[sanity check, sanity test](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[sans serif (adj.)](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[SAP](https://developers.google.com/style/word-list#sap)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[SATA](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[save](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4046,9 +3746,25 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[scroller](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[SD](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[SDH](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[SDK](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[SDR (n., adj.)](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[SDRAM](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Search (as part of product name)](https://developers.google.com/style/word-list#search)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Search Console](https://developers.google.com/style/word-list#search-console)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[search field](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[secondary cache, second-level cache](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Secure Element, Secure Enclave](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[see](https://developers.google.com/style/word-list#see)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -4068,6 +3784,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[sentence-style capitalization](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Serial ATA](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[server](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[service](https://developers.google.com/style/word-list#service)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
@@ -4086,17 +3804,25 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[setup (noun or adjective), set up (verb)](https://developers.google.com/style/word-list#setup)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Setup Assistant](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[sexism, sexist language](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[sexy](https://developers.google.com/style/word-list#sexy)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[SHA-1](https://developers.google.com/style/word-list#sha-1)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[shall](https://developers.google.com/style/word-list#shall)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[share sheet](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Shared Albums](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[shared disk](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[shared folder](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[SharePlay](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[she, her, hers](https://developers.google.com/style/word-list#she)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -4104,7 +3830,15 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[sherpa](https://developers.google.com/style/word-list#sherpa)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Shift key](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[shift left](https://developers.google.com/style/word-list#shift-left)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Shift lock](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Shift-click (v.)](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Shift-drag (v.)](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[shortcut](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4122,9 +3856,13 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[sidebar](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Sidecar](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[sighted](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[sign](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Sign in with Apple](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[sign into](https://developers.google.com/style/word-list#sign-into)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -4139,6 +3877,12 @@ Lower case is separate from upper in section divisions. Sorry.
 **[sign-out (noun or adjective), sign out (verb)](https://developers.google.com/style/word-list#sign-out)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[signaled, signaling](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[SIM](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[SIMM](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Simple Mail Transfer Protocol](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[simple, simply](https://developers.google.com/style/word-list#simple)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -4157,6 +3901,14 @@ Lower case is separate from upper in section divisions. Sorry.
 **[single sign-on (n., adj.)](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[single sign-on (noun or adjective)](https://developers.google.com/style/word-list#single-sign-on)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Siri](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Siri Remote](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Siri Shortcuts](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Siri Suggestions](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[site license, site licensing (n., adj.)](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4186,9 +3938,13 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[small outline dual inline memory module](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
-**[smart TV](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+**[Smart](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[smart card](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Smart Stack](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[smart TV](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[smartphone](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4196,9 +3952,13 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[smiley](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[SMTP](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[snapshot](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[so-called (adj.)](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[SO-DIMM](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[social media (pl. n., adj.)](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4230,7 +3990,11 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[source network address translation (SNAT)](https://developers.google.com/style/word-list#snat)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Space bar](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[space character](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Spaces](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[spam](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4256,9 +4020,19 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[splash screen](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Split View](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Spotlight](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[SQL](https://developers.google.com/style/word-list#sql)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[SSD](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[ssh and SSH](https://developers.google.com/style/word-list#ssh)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[ssh'ing](https://developers.google.com/style/word-list#sshing)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Stacks](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[standalone (adj.)](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4267,6 +4041,8 @@ Lower case is separate from upper in section divisions. Sorry.
 **[standard definition (n.), standard-definition (adj.)](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[standard dynamic range (n.), standard-dynamic-range (adj.)](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Standard Roman character set](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[standard user](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4279,6 +4055,8 @@ Lower case is separate from upper in section divisions. Sorry.
 **[startup (noun or adjective), start up (verb)](https://developers.google.com/style/word-list#startup)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[startup disk](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Startup Disk](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[startup display, startup screen](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4298,7 +4076,13 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[stereotypes](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Stickies](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Sticky Keys](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[still image (n.), still-image (adj.)](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[STONITH, STOMITH](https://developers.google.com/style/word-list#stonith)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[stop](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4334,6 +4118,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[super (prefix)](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[SuperDrive](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[support](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[surface](https://developers.google.com/style/word-list#surface)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
@@ -4358,9 +4144,17 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[system](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[System Administrator](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[system files](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[System folder](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[system on chip (n.), system-on-chip (adj.)](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[System Preferences](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[System Settings](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[system software](https://support.apple.com/guide/applestyleguide/s-apsge70df12b/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4371,6 +4165,8 @@ Lower case is separate from upper in section divisions. Sorry.
 **[tab](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[tab](https://developers.google.com/style/word-list#tab)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Tab key, tab character](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[table captions](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4391,7 +4187,13 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[tap and hold](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Tap to Wake](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Tapback](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[taptic](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Taptic Engine](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[tar file](https://developers.google.com/style/word-list#tar-file)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
@@ -4400,6 +4202,16 @@ Lower case is separate from upper in section divisions. Sorry.
 **[target](https://developers.google.com/style/word-list#target)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[target disk mode](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[TB (n., adj.)](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[TB/s](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Tbit (n., adj.)](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Tbit/s](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[TCP/IP](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[telecommunication](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4499,6 +4311,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[to-do (adj.)](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Today View](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[toggle (v.)](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[toolbar](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -4509,15 +4323,25 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[tooltip](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Torx screwdriver](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[TOSLINK](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[touch](https://developers.google.com/style/word-list#touch)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[touch and hold](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Touch Bar](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Touch surface](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[touch-tone (adj.)](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[touchscreen](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[touchscreen](https://developers.google.com/style/word-list#touchscreen)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Touch ID](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[toward](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4533,7 +4357,11 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[traditional](https://developers.google.com/style/word-list#traditional)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Transmission Control Protocol/Internet Protocol](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[transpile](https://developers.google.com/style/word-list#transpile)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Trash](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[tray-loading (adj.)](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4543,6 +4371,10 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[troubleshoot (v.), troubleshooting (n., adj.)](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[True Tone](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[TrueDepth](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[tune in to](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[turn on](https://developers.google.com/style/word-list#turn-on)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
@@ -4550,6 +4382,10 @@ Lower case is separate from upper in section divisions. Sorry.
 **[turn on, turn off](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[tutorial](https://developers.google.com/style/word-list#tutorial)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[TV](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[TV monitor](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[tvOS](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4569,6 +4405,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[type (v.)](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Type 1 font](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[type size](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[type style](https://support.apple.com/guide/applestyleguide/t-apsg841c3645/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -4580,6 +4418,18 @@ Lower case is separate from upper in section divisions. Sorry.
 **[typically](https://developers.google.com/style/word-list#typically)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 ## u
+
+**[U.S.](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[UDF](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[UFS](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[UI](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[UI](https://developers.google.com/style/word-list#ui)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[UK](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[ultra (prefix)](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4603,9 +4453,27 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[unhighlighted (adj.)](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Unicode](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Unicode](https://developers.google.com/style/word-list#unicode)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Uniform Resource Locator](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[uninstall](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[unit](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Universal Disk Format](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Universal Serial Bus](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[UNIX](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Unix epoch time](https://developers.google.com/style/word-list#unix-epoch-time)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[UNIX File System](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Unix-like](https://developers.google.com/style/word-list#unix-like)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[unmount (v.)](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4623,6 +4491,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[up arrow](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Up Arrow key](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[update](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[upgradable](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -4638,6 +4508,16 @@ Lower case is separate from upper in section divisions. Sorry.
 **[uptime](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[upward](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[URL](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[URL](https://developers.google.com/style/word-list#url)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[US](https://developers.google.com/style/word-list#us)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[USB](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[USB connector types](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[user](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4658,6 +4538,8 @@ Lower case is separate from upper in section divisions. Sorry.
 **[username](https://developers.google.com/style/word-list#username)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[using](https://developers.google.com/style/word-list#using)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[UTF](https://developers.google.com/style/word-list#utf)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[utility](https://support.apple.com/guide/applestyleguide/u-apsg45c3b57e/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4707,6 +4589,8 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[video random-access memory](https://support.apple.com/guide/applestyleguide/v-apsg51b3c806/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[View control](https://support.apple.com/guide/applestyleguide/v-apsg51b3c806/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[viewer window](https://support.apple.com/guide/applestyleguide/v-apsg51b3c806/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[virtual machine](https://support.apple.com/guide/applestyleguide/v-apsg51b3c806/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -4715,9 +4599,15 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[virtual memory](https://support.apple.com/guide/applestyleguide/v-apsg51b3c806/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Visual Look Up](https://support.apple.com/guide/applestyleguide/v-apsg51b3c806/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[visually challenged](https://developers.google.com/style/word-list#visually-challenged)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[visually impaired](https://support.apple.com/guide/applestyleguide/v-apsg51b3c806/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[VLAN attachment](https://developers.google.com/style/word-list#vlan)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Voice Memos](https://support.apple.com/guide/applestyleguide/v-apsg51b3c806/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[voice-quality microphone](https://support.apple.com/guide/applestyleguide/v-apsg51b3c806/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4729,9 +4619,15 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[volume (disk)](https://support.apple.com/guide/applestyleguide/v-apsg51b3c806/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Volume Down key, Volume Up key](https://support.apple.com/guide/applestyleguide/v-apsg51b3c806/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[volume license, volume licensing](https://support.apple.com/guide/applestyleguide/v-apsg51b3c806/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[voodoo](https://developers.google.com/style/word-list#voodoo)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[VPN](https://support.apple.com/guide/applestyleguide/v-apsg51b3c806/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[VRAM](https://support.apple.com/guide/applestyleguide/v-apsg51b3c806/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[vs.](https://support.apple.com/guide/applestyleguide/v-apsg51b3c806/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4743,7 +4639,11 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[wake lock (noun), wake-lock (adjective)](https://developers.google.com/style/word-list#wake-lock)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
+**[Walkie-Talkie](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[walkthrough](https://developers.google.com/style/word-list#walkthrough)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[WAN](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[want](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4753,11 +4653,13 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[warm start (n.), warm-start (adj.)](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Warning](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[watch face](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
-**[watchOS](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
-
 **[watchlist](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[watchOS](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[waveform (n., adj.)](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4825,6 +4727,10 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[who, whom](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[Wi-Fi](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Wi-Fi](https://developers.google.com/style/word-list#wifi)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
 **[wide](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[wide area network](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
@@ -4848,6 +4754,10 @@ Lower case is separate from upper in section divisions. Sorry.
 **[window controls](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[window titles](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Windows](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[Windows-based (adj.), Windows based (pred. adj.)](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[wired](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
@@ -4873,11 +4783,21 @@ Lower case is separate from upper in section divisions. Sorry.
 
 **[workstation (n., adj.)](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
+**[World Wide Web](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[World Wide Web](https://developers.google.com/style/word-list#world-wide-web)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
+
+**[Worldwide Developers Conference](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[would](https://developers.google.com/style/word-list#would)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[wraparound (n.)](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[write](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[WWDC](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[WWW](https://support.apple.com/guide/applestyleguide/w-apsg48ccd3b3/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 ## x
 
@@ -4893,9 +4813,13 @@ Lower case is separate from upper in section divisions. Sorry.
 
 ## y
 
+**[Y-adapter](https://support.apple.com/guide/applestyleguide/y-apsg52ffc516/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
 **[y-axis](https://support.apple.com/guide/applestyleguide/y-apsg52ffc516/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
 
 **[y-coordinate](https://support.apple.com/guide/applestyleguide/y-apsg52ffc516/web)** &nbsp; <img src='https://companieslogo.com/img/orig/AAPL-bf1a4314.png' height='12px'>
+
+**[YAML](https://developers.google.com/style/word-list#yaml)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
 **[ymmv](https://developers.google.com/style/word-list#ymmv)** &nbsp; <img src='https://companieslogo.com/img/orig/GOOG-0ed88f7c.png' height='12px'>
 
