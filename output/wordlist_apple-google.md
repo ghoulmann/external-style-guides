@@ -1,9 +1,11 @@
 
 # Word List <!-- omit in toc -->
 
-## Contents
+Lower case is separate from upper in section divisions. Sorry.
 
-- [Contents](#contents)
+## Contents <!-- omit in toc -->
+
+
 - [Numbers and Symbols](#numbers-and-symbols)
 - [A](#a)
 - [B](#b)
